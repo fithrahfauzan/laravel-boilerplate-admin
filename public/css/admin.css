@@ -1,0 +1,7 @@
+footer.sticky-footer .copyright {
+    line-height: 1.5;
+}
+textarea.form-control {
+    resize: vertical;
+    min-height: 80px;
+}
